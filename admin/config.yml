@@ -1,8 +1,6 @@
 backend:
-  name: github
-  repo: lunaisnotaboy/themintfarmabout
+  name: git-gateway
   branch: master
-  site_domain: boring-johnson-dcf172.netlify.app
 
 media_folder: "images/uploads"
 
