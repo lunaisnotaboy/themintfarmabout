@@ -6,3 +6,5 @@ tags:
 permalink: /a-confession/
 ---
 Hi everyone. This post is going to be personal for me, as it is meant to be seen by my friends and family.
+
+As this is the case,
