@@ -18,7 +18,8 @@ email: yo@themintfarm.ml
 description: "A small and welcoming community"
 url: https://about.themintfarm.ml
 repository: lunaisnotaboy/themintfarmabout
-twitter_username: lunaisnotaboy
+twitter:
+  username: lunaisnotaboy
 github_username: lunaisnotaboy
 minimal_mistakes_skin: "dark"
 search: true
