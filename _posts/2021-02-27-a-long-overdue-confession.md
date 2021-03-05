@@ -63,4 +63,6 @@ We eventually worked out that I was, in fact, feeling gender dysphoria.
 
 However, I couldn't work up the courage to talk to my parents. Mom found out from guessing and we talked in her car while driving out in the countryside, so that's how she knows.
 
-Dad was and still is, too terrifying to approach.
+Dad was and still is, too terrifying to approach. So many times he asked, "Where did my little boy go?" and it filled me with *so much* guilt.
+
+I wanted to say, "Dad, he's still here, he's just a girl now," but I couldn't.
