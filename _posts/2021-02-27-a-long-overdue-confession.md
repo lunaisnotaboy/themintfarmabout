@@ -1,6 +1,6 @@
 ---
 title: A Long Overdue Explanation
-date: 2021-03-05T15:27:46.690Z
+date: 2021-03-05T15:55:12.420Z
 tags:
   - personal
 permalink: /an-explanation/
