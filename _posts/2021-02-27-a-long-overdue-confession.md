@@ -41,8 +41,18 @@ At first, he claimed it was an accident. I believed him. Eventually, they became
 
 I confronted him, and told him I was leaving for good. He understood.
 
-And that was the end of it.
+And that was the end of it. I cut off my connections with him, and we went our separate ways.
 
 ## My Friends
 
 The only part of MVC I am grateful for is that they introduced me to my friends. They helped me out in the darkest parts of this journey, and I am forever grateful to them. Whenever you heard me talk about experiences with my friends, I was likely referring to them.
+
+## Regarding the Elephant in the Room
+
+You are probably thinking, "Well, you just confessed to something that will sever your connection to the internet for the rest of your childhood, but what does this have to do with being transgender?"
+
+I really did not want to type this in the first place, because I *knew* that if I told you that I had been connecting with people (who you would classify as "strangers," but they really aren't, no matter how much you tell me otherwise), that you would forcefully sever my connection with the only people keeping me sane.
+
+I knew that. I really did.
+
+Throughout the entirety of this MVC fiasco, I began questioning my gender. At first, I thought it was just a phase, something I was brainwashing myself to think, something to blame my depression on. I still subconsciously think that.
