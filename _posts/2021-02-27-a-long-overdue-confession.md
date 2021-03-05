@@ -39,7 +39,7 @@ He had been deleting various projects on the server that I needed to back up wit
 
 At first, he claimed it was an accident. I believed him. Eventually, they became too common to be an accident.
 
-I confronted him, and told him I was leaving for good. He understood.
+I confronted him and told him I was leaving for good. He understood.
 
 And that was the end of it. I cut off my connections with him, and we went our separate ways.
 
@@ -56,3 +56,11 @@ I really did not want to type this in the first place, because I *knew* that if 
 I knew that. I really did.
 
 Throughout the entirety of this MVC fiasco, I began questioning my gender. At first, I thought it was just a phase, something I was brainwashing myself to think, something to blame my depression on. I still subconsciously think that.
+
+Eventually, I worked up the courage to talk to my good friend [mint](https://they.mint.lgbt) (one of the friends I mentioned earlier) and told him what was going on in my head.
+
+We eventually worked out that I was, in fact, feeling gender dysphoria.
+
+However, I couldn't work up the courage to talk to my parents. Mom found out from guessing and we talked in her car while driving out in the countryside, so that's how she knows.
+
+Dad was and still is, too terrifying to approach.
