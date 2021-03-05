@@ -65,4 +65,22 @@ However, I couldn't work up the courage to talk to my parents. Mom found out fro
 
 Dad was and still is, too terrifying to approach. So many times he asked, "Where did my little boy go?" and it filled me with *so much* guilt.
 
-I wanted to say, "Dad, he's still here, he's just a girl now," but I couldn't.
+I wanted to say, "Dad, he's still here, he's just a girl now," but I couldn't. I didn't know how he would react. Would he disown me? Would he kick me out? Or would he accept it and help me transition?
+
+So for the past three years, I have been going by the name Luna. Every time I see my avatar on Discord or [Matrix](https://matrix.org), I am filled with so much euphoria, thinking that one day, I may be able to be recognized for a girl without telling anyone explicitly.
+
+## Where Have I Been on the Internet?
+
+Because I know you'll probably take everything away from me for the rest of my childhood, I'll make it simple for you.
+
+* I co-founded and help run an organization called [mint.lgbt](https://mint.lgbt) with mint and jo!
+* I have a [Twitter](https://twitter.com/lunaisnotaboy) account
+* I run a website called The Mint Farm with several different sections, all on the laptop at home ([Mastodon](https://themintfarm.ml), [Gitea](https://devel.themintfarm.ml), [Bitbucket](https://git.themintfarm.ml), [Jira](https://jira.themintfarm.ml), [Matrix](https://element.themintfarm.ml))
+* I have several code repositories on [GitHub](https://github.com/lunaisnotaboy)
+* I have a [Keybase](https://keybase.io/lunaisnotaboy) to help manage PGP keys
+* A [Discord](https://discord.com) account
+* And probably more that I'm forgetting
+
+Just please, if you are going to take everything away, let me say goodbye to them one last time.
+
+You have no idea what they mean to me.
