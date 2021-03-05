@@ -1,9 +1,9 @@
 ---
-title: A Long Overdue Confession
+title: A Long Overdue Explanation
 date: 2021-03-01T23:54:45.808Z
 tags:
   - personal
-permalink: /a-confession/
+permalink: /an-explanation/
 ---
 Hi everyone. This post is going to be personal for me, as it is meant to be seen by my friends and family.
 
